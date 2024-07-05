@@ -1,2 +1,5 @@
-# -
-머신러닝기반 빅데이터처리 실습에 제출할 프로젝트를 위한 공간입니다.
+# Project
+- Bestseller and revenue prediction based on deep learning using book information
+- Analysis of delay factors in waiting time for special vehicles for the disabled
+- drug safety testing
+- Data Mining-Based Identification of New Drug Substances for Alzheimer's Disease
