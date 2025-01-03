@@ -6,7 +6,7 @@
 
  I am interested in AI technology such as machine learning and deep learning, and I am working on several projects related to it🤖. I use Python as my main language for development👩🏻‍💻. Then take your time and have a good time watching💜!
 
- ### 🛠️ Things I code with
+ ### 🛠️ Software
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NumPy-013243?style=square&logo=NumPy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=square&logo=Pandas&logoColor=white"/>
